@@ -1,0 +1,9 @@
+{
+  "name": "DSPFogDropTweak",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/appuns/DSPFogDropTweak",
+  "description": "You can change the rate, number, and planetary correction for Dark Fog drops.This don't affect achievements or milestones. ダークフォグのドロップについて、率と数、惑星補正を調整できます。実績やマイルストーンには影響しません。",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+  ]
+}
